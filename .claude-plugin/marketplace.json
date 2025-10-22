@@ -17,6 +17,15 @@
       "skills": [
         "./figma-to-flutter"
       ]
+    },
+    {
+      "name": "device-screenshot",
+      "description": "Capture screenshots from iOS Simulators, physical iOS devices, or Android devices during development",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./device-screenshot"
+      ]
     }
   ]
 }
