@@ -1,0 +1,22 @@
+{
+  "name": "claude-dev-skills",
+  "owner": {
+    "name": "Prateek Sunal",
+    "email": "prateek@sunal.in"
+  },
+  "metadata": {
+    "description": "Custom skills collection for development workflows",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "figma-to-flutter",
+      "description": "Convert Figma designs to Flutter code with pixel-perfect UI implementation",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./figma-to-flutter"
+      ]
+    }
+  ]
+}
